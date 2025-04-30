@@ -18,6 +18,7 @@ The greater-than symbol followed by a space (> ) represents the user input. Note
 
 Example 1.
 
+```bash
 ---------
 |       |
 |       |
